@@ -1,4 +1,4 @@
 # 2018-NEON-git-flow-demo
 
 
-HI I'm working with you. 
+This is a repository to demonstrate a forked collaborative workflow. 
